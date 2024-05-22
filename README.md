@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuhyunKR
+- 👋 Hi, I’m Duhyeon Nam
 - 👀 I’m interested in AI, BlockChain, Web3.0, SmartContrat, NFT
 - 🌱 I’m currently learning: BlockChain, DAPP, NFT, AI
 <!---
