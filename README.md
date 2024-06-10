@@ -5,4 +5,4 @@
 DuhyunKR/DuhyunKR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuhyunKR)](https://github.com/anuraghazra/github-readme-stats)
+<a href="[링크](https://du-hyeon.notion.site/Hello-I-m-DuHyeon-6447874bb0af47c28cfe0083dc9423a8)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
