@@ -8,8 +8,15 @@
 </details>
 <details>
   <summary>
-    ✍My portfolio & Study Room
+    ✍My portfolio & Study Room...
   </summary>
   <br>
   <a href = "https://du-hyeon.notion.site/Hello-I-m-DuHyeon-6447874bb0af47c28cfe0083dc9423a8"><img src= "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> 
+</details>
+<details>
+  <summary>
+    📞Contact...
+  </summary>
+  <br>
+  <a href="https://www.instagram.com/namduhus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
 </details>
