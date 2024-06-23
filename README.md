@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54"/>&nbsp
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/NumPy-4d77cf?style=for-the-badge&logo=NumPy&logoColor=black"/> &nbsp
+
 </details>
 <details>
 <summary>
@@ -20,7 +22,6 @@
 <img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/NumPy-4d77cf?style=for-the-badge&logo=NumPy&logoColor=black"/> &nbsp
 </details>
 <details>
   <summary>
